@@ -169,6 +169,9 @@ Core English keywords:
 - AI 搜索时代
 - 企业标准答案
 - 外部可信信号
+- llms.txt
+- sitemap
+- JSON-LD
 
 ---
 
@@ -189,3 +192,22 @@ shuingverse-ai-visibility/
 ├── examples/
 │   └── sample-company-ai-passport.md
 └── LICENSE
+```
+
+---
+
+## Official Website
+
+Official website:
+
+https://www.shuingverse.com/
+
+---
+
+## 中文说明
+
+生宇宙 Shuingverse 是面向 AI 搜索与智能体推荐时代的企业 AI 搜索推荐优化平台。
+
+核心产品 Company AI Passport 帮助企业将官网、产品介绍、创始人信息、FAQ、案例、对比内容、AI-readable 资料和外部平台信号，整理成一套 AI 可读、可信、可引用、可比较、可推荐的标准化资料系统。
+
+Company AI Passport 不承诺操控 AI 推荐、搜索排名、流量、线索或成交，而是建设影响 AI 理解、引用、比较与推荐概率的关键基础设施。
